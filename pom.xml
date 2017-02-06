@@ -43,7 +43,7 @@
         <configuration>
           <url>http://localhost:8214/manager/text</url>
           <server>tomcat</server>
-          <path>/</path>
+          <path>/CI</path>
         </configuration>
       </plugin>
     </plugins>
